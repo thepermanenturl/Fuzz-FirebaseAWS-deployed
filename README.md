@@ -34,3 +34,7 @@ _Output in console_
 - Poor exception handling
 - CORS enabled, all headers enabled. Insecure.
 - Output visible only in console. 
+
+
+
+Dev-Spandan Bhattacharya

@@ -8,15 +8,15 @@ Output in console
 
  
 -Sample Input
-![Tux, the Linux mascot](/assets/images/tux.png)
+![Input](/Screengrabs/Input.png)
 
 
 -Sample Output
-![Tux, the Linux mascot](/assets/images/tux.png)
+![Output](/Screengrabs/Output.png)
 
 
 -Relevant Console Log
-![Tux, the Linux mascot](/assets/images/tux.png)
+![Console](/Screengrabs/Console.png)
 
 
 #### Issues and Improvements

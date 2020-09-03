@@ -7,19 +7,19 @@ Built on top of create-react-app
 Output in console
 
  
--Sample Input
+### Sample Input
 
 
 ![Input](/Screengrabs/Input.png)
 
 
--Sample Output
+### Sample Output
 
 
 ![Output](/Screengrabs/Output.png)
 
 
--Relevant Console Log
+### Relevant Console Log
 
 
 ![Console](/Screengrabs/Console.png)
